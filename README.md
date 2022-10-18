@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java + DSA**
 
-- 👨‍💻 All of my projects are available at [https://chinmay191201.github.io/New/](https://chinmay191201.github.io/New/)
+- 👨‍💻 All of my projects are available at [https://chinmay191201.github.io/New/](https://github.com/Chinmay191201?tab=repositories)
 
 - 📫 How to reach me **chinmaygaikwad1901#gmail.com**
 
